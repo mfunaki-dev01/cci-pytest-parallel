@@ -1,1 +1,1 @@
-# cci-pytest-flaky
+# cci-pytest
