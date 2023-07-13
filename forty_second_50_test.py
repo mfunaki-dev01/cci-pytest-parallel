@@ -7,7 +7,6 @@ def test_():
     a = 1
     b = random.randint(1, 2)    # 50% chance of failure
 
-    time.sleep(20)
-    time.sleep(20)
+    time.sleep(40)
 
     assert a != b
